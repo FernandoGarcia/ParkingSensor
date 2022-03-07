@@ -12,3 +12,5 @@ All that I have done was based on experiences of other people that I have found 
 The main reference that I have used was the code provided in [Arduino forum](https://forum.arduino.cc/t/hacking-car-reverese-parking-sensors/171696/10) by a guy called "DanLLL". 
 
 ![Parking sensor model](Images/ParkingSensorModel.jpg)
+
+![Serial monitor](Images/SerialMonitor.png)
