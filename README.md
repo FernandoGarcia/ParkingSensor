@@ -13,4 +13,6 @@ The main reference that I have used was the code provided in [Arduino forum](htt
 
 ![Parking sensor model](Images/ParkingSensorModel.jpg)
 
+![Module pinout](Images/ModulePinout.jpg)
+
 ![Serial monitor](Images/SerialMonitor.png)
