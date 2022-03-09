@@ -9,7 +9,7 @@ The model is not the cheapest available on Aliexpress but I like the display mod
  
 All that I have done was based on experiences of other people that I have found over the internet.
 
-The main reference that I have used was the code provided in [Arduino forum](https://forum.arduino.cc/t/hacking-car-reverese-parking-sensors/171696/10) by a guy called "DanLLL". 
+The main reference that I have used was the code provided in [Arduino forum](https://forum.arduino.cc/t/hacking-car-reverese-parking-sensors/171696/10) by Dan Lavin. 
 
 ![Parking sensor model](Images/ParkingSensorModel.jpg)
 
