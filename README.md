@@ -15,4 +15,6 @@ The main reference that I have used was the code provided in [Arduino forum](htt
 
 ![Module pinout](Images/ModulePinout.jpg)
 
+![Circuit Wiring](Images/CircuitWiring.png)
+
 ![Serial monitor](Images/SerialMonitor.png)
