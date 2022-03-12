@@ -4,13 +4,24 @@
 
 #define DATA_SIZE 18 // Amount of high pulses
 
+// Sensors order
+
+//   G  E  F  H
+//   4  5  6  7
+//   ++++++++++
+//     Front
+//     Rear
+//   +++++++++++
+//   A  B  C  D
+//   0  1  2  3
+
 const int sensorA = 0; // 000
 const int sensorB = 1; // 001
 const int sensorC = 2; // 010
 const int sensorD = 3; // 011
-const int sensorE = 4; // 100
-const int sensorF = 5; // 101
-const int sensorG = 6; // 110
+const int sensorE = 5; // 101- Changes the order from here.
+const int sensorF = 6; // 110
+const int sensorG = 4; // 100 
 const int sensorH = 7; // 111
 
 const int pin = D1;
