@@ -17,4 +17,6 @@ The main reference that I have used was the code provided in [Arduino forum](htt
 
 ![Circuit Wiring](Images/CircuitWiring.png)
 
+![Circuit Wiring Stamp C3](Images/CircuitWiring-StampC3.png)
+
 ![Serial monitor](Images/SerialMonitor.png)
