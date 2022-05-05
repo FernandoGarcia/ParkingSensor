@@ -24,25 +24,10 @@ const int sensorF = 6; // 110
 const int sensorG = 4; // 100 
 const int sensorH = 7; // 111
 
-const int pin = D1;
+const int pin = 1; // G1 on M5Stack stamp C3
 const int ledPin = 2;
 unsigned long pulse_time[DATA_SIZE];   // Holds pulse lengthes in uS
 byte pulse_bit[DATA_SIZE];             // Holds the binary equivalents
-
-// *** NodeMCU PINS ***
-/*
-  #define D0    16 // Has LED
-  #define D1    5  // PWM e SCL
-  #define D2    4  // PWM e SDA
-  #define D3    0  // PWM
-  #define D4    2  // PWM - Has LED
-  #define D5    14 // CLK e PWM
-  #define D6    12 // MISO e PWM
-  #define D7    13 // MOSI e PWM
-  #define D8    15 // CS e PWM
-  #define D9    3  // RX
-  #define D10   1  // TX
-*/
 
 void setup()
 {

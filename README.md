@@ -15,8 +15,8 @@ The main reference that I have used was the code provided in [Arduino forum](htt
 
 ![Module pinout](Images/ModulePinout.jpg)
 
-![Circuit Wiring](Images/CircuitWiring.png)
-
 ![Circuit Wiring Stamp C3](Images/CircuitWiring-StampC3.png)
+
+![Final assembly](Images/finalAssembly.jpg)
 
 ![Serial monitor](Images/SerialMonitor.png)
