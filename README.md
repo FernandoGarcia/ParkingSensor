@@ -20,3 +20,5 @@ The main reference that I have used was the code provided in [Arduino forum](htt
 ![Final assembly](Images/finalAssembly.jpg)
 
 ![Serial monitor](Images/SerialMonitor.png)
+
+![BLE client in HU](Images/BLE_client.png)
